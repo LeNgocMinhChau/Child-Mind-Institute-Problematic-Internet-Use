@@ -96,7 +96,9 @@ Alternatively, use the scripts for specific tasks:
 ## Contributing
 
 Lê Ngọc Minh Châu	21020174
+
 Hà Quang Nhuệ	21021524
+
 Trần Lê Thành Trung	21020671
 
 ## License
