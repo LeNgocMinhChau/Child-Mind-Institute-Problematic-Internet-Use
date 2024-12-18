@@ -90,14 +90,8 @@ pip install -r requirements.txt
 Alternatively, use the scripts for specific tasks:
 
 - Train and predict with ensemble:
-  ```bash
-  python scripts/ensemble_model.py
-  ```
 
 - Perform post-processing:
-  ```bash
-  python scripts/post_processing.py
-  ```
 
 ## Contributing
 
