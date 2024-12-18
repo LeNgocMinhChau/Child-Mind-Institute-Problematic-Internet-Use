@@ -1,4 +1,4 @@
-# Final Machine Learning Project INT3405E 55
+# Final Machine Learning Project INT3405E 55 of Group 14
 
 This repository contains the implementation of the final machine learning project, where we utilize ensemble models and perform post-processing with majority voting for submission generation. The project is designed to improve the robustness and accuracy of predictions by combining the outputs of multiple models.
 
