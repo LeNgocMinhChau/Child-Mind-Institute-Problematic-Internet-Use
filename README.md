@@ -1,4 +1,4 @@
-# Final Machine Learning Project INT3405E 55 of Group 14
+# Final Machine Learning Project 
 
 This repository contains the implementation of the final machine learning project, where we utilize ensemble models and perform post-processing with majority voting for submission generation. The project is designed to improve the robustness and accuracy of predictions by combining the outputs of multiple models.
 
@@ -93,15 +93,4 @@ Alternatively, use the scripts for specific tasks:
 
 - Perform post-processing:
 
-## Contributing
-
-Lê Ngọc Minh Châu	21020174
-
-Hà Quang Nhuệ	21021524
-
-Trần Lê Thành Trung	21020671
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
